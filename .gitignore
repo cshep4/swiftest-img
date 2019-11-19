@@ -1,0 +1,7 @@
+/bin/*
+/obj/*
+.vs/*.*
+/vendor/**
+/.idea
+
+creds.json
